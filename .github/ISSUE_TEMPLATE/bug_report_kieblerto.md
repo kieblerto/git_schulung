@@ -1,9 +1,9 @@
 ---
-name: 🐞 Bug report wulfland
+name: 🐞 Bug report kieblerto
 about: Create a report to help us improve
 title: '[Bug]:'
 labels: 'bug'
-assignees: 'wulfland'
+assignees: 'kieblerto'
 
 ---
 
